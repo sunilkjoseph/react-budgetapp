@@ -14,11 +14,11 @@ The React Budgeting Application is a web application designed to help users mana
 
 ## Usage
 
-- 1. Sign up or log in to your account.
-- 2. Create budgets for different spending categories.
-- 3. Add individual expenses to track your spending.
-- 4. Monitor budget progress and analyze expense patterns.
-- 5. Log out to secure your account.
+1. Sign up or log in to your account.
+2. Create budgets for different spending categories.
+3. Add individual expenses to track your spending.
+4. Monitor budget progress and analyze expense patterns.
+5. Log out to secure your account.
 
 ## Technologies Used
 - React
@@ -27,7 +27,7 @@ The React Budgeting Application is a web application designed to help users mana
 
 ## Author
 
-- Sunil K Joseph, Asst. Professor, Dept. of Computer Science, Mar Augusthinose College, Ramapuram.
+    Sunil K Joseph, Asst. Professor, Dept. of Computer Science, Mar Augusthinose College, Ramapuram.
 
 ## Screenshots
 
